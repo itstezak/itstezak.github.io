@@ -105,8 +105,8 @@ start and select buttons. */
 /* Positioning and size of the container for the face buttons */
 .custom .abxy{
     position: absolute;
-    width: 204px;
-    height: 205px;
+    width: 233px;
+    height: 117px;
     top: 156px;
     left: 538px;
 }
