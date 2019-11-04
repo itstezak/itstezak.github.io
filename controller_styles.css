@@ -36,14 +36,14 @@ above to achieve the desired position. */
 placement */
 .custom .bumper{
     width: 89px;
-    height: 28px;
+    height: 24px;
     background: url(bumper.png);
     opacity: 0;
 }
 .custom .bumpers{
     position: absolute;
     width: 586px;
-    height: 28px;
+    height: 24px;
     left: 99px;
     top: 72px;
 }
