@@ -13,11 +13,11 @@
     width: 208px;
     height: 95px;
     position: absolute;
-    left: 99px;
+    left: 208px;
 }
 .custom .trigger{/* These are the actual triggers themselves */
-    width:86px;
-    height:65px;
+    width: 104px;
+    height: 95px;
     background: url(triggers.png);
     opacity: 0;
 }
