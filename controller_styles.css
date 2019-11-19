@@ -125,13 +125,12 @@
     height: 171px;
     top: 159px;
     left: 567px;
-    transform: scale(0.9,0.9);
 }
 
 .custom .button {
     position: absolute;
-    width: 55px;
-    height: 55px;
+    width: 62px;
+    height: 62px;
     background: url(face.png);
 }
 
@@ -176,7 +175,6 @@
     background: url(sticks.png);
     height: 94px;
     width: 94px;
-    transform: scale(0.9,0.9);
 }
 
 .custom .stick.pressed.left {
