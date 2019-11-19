@@ -2,8 +2,8 @@
     background: url(base.png);
     height: 624px;
     width: 840px;
-    /*    margin-left: -403px;
-        margin-top: -280px;*/
+    margin-left: -403px;
+    margin-top: -280px;
 }
 
 .ds4.disconnected {
