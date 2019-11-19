@@ -125,6 +125,7 @@
     height: 171px;
     top: 159px;
     left: 567px;
+    scale: 90%;
 }
 
 .custom .button {
@@ -167,6 +168,7 @@
     height: 105px;
     top: 308px;
     left: 228px;
+    
 }
 
 .custom .stick {
@@ -174,6 +176,7 @@
     background: url(sticks.png);
     height: 94px;
     width: 94px;
+    scale: 90%;
 }
 
 .custom .stick.pressed.left {
