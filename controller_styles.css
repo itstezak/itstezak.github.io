@@ -135,30 +135,30 @@
 }
 
 .custom .button.pressed {
-    background-position-y: 55px;
+    background-position-y: 62px;
     /* margin-top: 5px; */
 }
 
 .custom .a {
     background-position: 0 0;
     bottom: 0;
-    left: 58px;
+    left: 62px;
 }
 
 .custom .b {
-    background-position: -57px 0;
-    top: 58px;
+    background-position: -62px 0;
+    top: 62px;
     right: 0px;
 }
 
 .custom .x {
-    background-position: -113px 0;
-    top: 58px;
+    background-position: -124px 0;
+    top: 62px;
 }
 
 .custom .y {
-    background-position: 55px 0;
-    left: 58px;
+    background-position: 62px 0;
+    left: 62px;
 }
 
 .custom .sticks {
