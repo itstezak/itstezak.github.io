@@ -18,12 +18,12 @@
     width: 588px;
     height: 90px;
     position: absolute;
-    left: 115px;
+    left: 107px;
 }
 
 .custom .trigger {
-    width: 99px;
-    height: 100%;
+    width: 100px;
+    height: 101%;
     background: url(triggers.png);
     opacity: 0;
 }
