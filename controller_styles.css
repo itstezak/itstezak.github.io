@@ -2,8 +2,8 @@
     background: url(base.png);
     height: 572px;
     width: 768px;
-    /* margin-left: -403px;
-       margin-top: -280px;  */
+    margin-left: -403px;
+    margin-top: -280px;
 }
 
 .custom.disconnected {
