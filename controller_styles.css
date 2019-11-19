@@ -16,14 +16,14 @@
 
 .custom .triggers {
     width: 588px;
-    height: 90px;
+    height: 95px;
     position: absolute;
-    left: 107px;
+    left: 99px;
 }
 
 .custom .trigger {
-    width: 100px;
-    height: 101%;
+    width: 86px;
+    height: 65px;
     background: url(triggers.png);
     opacity: 0;
 }
@@ -34,22 +34,22 @@
 
 .custom .trigger.right {
     float: right;
-    background-position-x: 99px;
+    background-position-x: 115px;
 }
 
 .custom .bumper {
-    width: 99px;
-    height: 23px;
+    width: 89px;
+    height: 28px;
     background: url(bumper.png) no-repeat;
     opacity: 0;
 }
 
 .custom .bumpers {
     position: absolute;
-    width: 588px;
-    height: 23px;
-    left: 109px;
-    top: 94px;
+    width: 586px;
+    height: 28px;
+    left: 99px;
+    top: 72px;
 }
 
 .custom .bumper.pressed {
@@ -87,27 +87,6 @@
     bottom: 216px;
 }
 
-/*Not needed, but I like keeping them here for posterity*/
-/*.custom .quadrant{
-position: absolute;
-background: url(ps4-assets/player-n.svgz);
-height: 17px;
-width: 111px;
-top: 140px;
-left: 240px;
-}
-.custom .p0{
-background-position: 0 -6px;
-}
-.custom .p1{
-background-position: 0 -28px;
-}
-.custom .p2{
-background-position: 0 -49px;
-}
-.custom .p3{
-background-position: 0 -70px;
-}*/
 .custom .arrows {
     position: absolute;
     width: 352px;
